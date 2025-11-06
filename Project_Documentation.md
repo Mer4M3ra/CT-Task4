@@ -139,3 +139,10 @@ FUNCTION ShowTips()
 END FUNCTION
 ```
 ![Tips Mind Map](Tips.png)
+### Story Board
+#### Splash Screen
+![Splash Screen](SplashScreen.png)
+#### Basic Level
+![Level](Level.png)
+### Gantt Chart
+![Gantt](Gantt.png)
